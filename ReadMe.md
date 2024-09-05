@@ -1,14 +1,18 @@
 <div align="center">
 <h1 style="color: orange;">
- Estudante de ADS
+ 🧑🏻‍🎓 Estudante de ADS
 </h1><br>
 <p>
   Sou um entusiasta da área de Qualidade de Software (QA), acredito que a qualidade não é apenas sobre encontrar defeitos,<br>
  mas sim sobre prevenir problemas, entender a experiência do usuário e agregar valor ao produto final.<br>
- Tenho me dedicado a aprender sobre diferentes tipos de testes, como testes manuais e automatizados, e a explorar ferramentas
+ Tenho me dedicado a aprender sobre diferentes tipos de testes, como testes manuais e automatizados, e a explorar ferramentas.
 </p>
-
-
+<p>
+🎓 Atualmente, estou aprendendo sobre:
+- Testes Automatizados com Cypress
+- Metodologias Ágeis (Scrum, Kanban)
+- Testes de Integração Contínua (CI/CD)
+</p>
 
 ## 🌐 Midia social:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerfson-alves-bab324144) 
