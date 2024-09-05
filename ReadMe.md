@@ -19,7 +19,7 @@
 
 
 
-📫 Como me encontrar:
+📫 Como me encontrar:<br>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerfson-alves-bab324144) 
 
 # 📊 GitHub Status:
