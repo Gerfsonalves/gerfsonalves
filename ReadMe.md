@@ -1,4 +1,4 @@
-<h1><align="center">
+<h1 align="center" style="color: orange;">
  Estudante de ADS
 </h1><br>
 <p align="center">
