@@ -1,5 +1,7 @@
+<p align="center">
+ Estudante de ADS
+</p>
 
-Estudante de ADS
 
 
 ## 🌐 Midias sociais:
