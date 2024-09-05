@@ -6,12 +6,17 @@
   Sou um entusiasta da área de Qualidade de Software (QA), acredito que a qualidade não é apenas sobre encontrar defeitos,<br>
  mas sim sobre prevenir problemas, entender a experiência do usuário e agregar valor ao produto final.<br>
  Tenho me dedicado a aprender sobre diferentes tipos de testes, como testes manuais e automatizados, e a explorar ferramentas.
-</p>
+</p><br><br>
 <p>
-🎓 Atualmente, estou aprendendo sobre:
-- Testes Automatizados com Cypress
-- Metodologias Ágeis (Scrum, Kanban)
+🎓 Atualmente, estou aprendendo sobre:<br>
+- Testes Automatizados com Cypress<br>
+- Metodologias Ágeis (Scrum, Kanban)<br>
 - Testes de Integração Contínua (CI/CD)
+</p><br><br>
+<p>
+ 🔧 Habilidades Técnicas:<br>
+- Linguagens: JavaScript<br>
+- Ferramentas: Cypress, Postman, Git
 </p>
 
 ## 🌐 Midia social:
