@@ -12,28 +12,12 @@
 - Testes Automatizados com Cypress<br>
 - Metodologias Ágeis (Scrum, Kanban)<br>
 - Testes de Integração Contínua (CI/CD)
-</p><br><br>
+</p><br>
 <p>
  🔧 Habilidades Técnicas:<br>
 - Linguagens: JavaScript<br>
 - Ferramentas: Cypress, Postman, Git
 </p>
-
-<div style="display: inline-block; width: 45%; vertical-align: top;">
-
-### Div 1
-
-Conteúdo da primeira div. Você pode adicionar qualquer tipo de conteúdo aqui, como texto, imagens, listas, etc.
-
-</div>
-<div style="display: inline-block; width: 45%; vertical-align: top;">
-
-### Div 2
-
-Conteúdo da segunda div. Esta div está ao lado da primeira.
-
-</div>
-
 
 
 
