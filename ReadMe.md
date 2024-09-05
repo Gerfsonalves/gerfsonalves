@@ -3,7 +3,8 @@
  Estudante de ADS
 </h1><br>
 <p>
-  Sou um entusiasta da área de Qualidade de Software (QA), acredito que a qualidade não é apenas sobre encontrar defeitos, mas sim sobre prevenir problemas, entender a experiência do usuário e agregar valor ao produto final.<br>
+  Sou um entusiasta da área de Qualidade de Software (QA), acredito que a qualidade não é apenas sobre encontrar defeitos,<br>
+ mas sim sobre prevenir problemas, entender a experiência do usuário e agregar valor ao produto final.<br>
  Tenho me dedicado a aprender sobre diferentes tipos de testes, como testes manuais e automatizados, e a explorar ferramentas
 </p>
 
