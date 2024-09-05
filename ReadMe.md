@@ -19,6 +19,24 @@
 - Ferramentas: Cypress, Postman, Git
 </p>
 
+<div style="display: inline-block; width: 45%; vertical-align: top;">
+
+### Div 1
+
+Conteúdo da primeira div. Você pode adicionar qualquer tipo de conteúdo aqui, como texto, imagens, listas, etc.
+
+</div>
+<div style="display: inline-block; width: 45%; vertical-align: top;">
+
+### Div 2
+
+Conteúdo da segunda div. Esta div está ao lado da primeira.
+
+</div>
+
+
+
+
 ## 🌐 Midia social:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerfson-alves-bab324144) 
 
