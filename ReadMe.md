@@ -10,6 +10,7 @@
 - Testes Automatizados com Cypress<br>
 - Metodologias Ágeis (Scrum, Kanban)<br>
 - Testes de Integração Contínua (CI/CD)
+  - Fundamentos de testes e boas práricas
 </p><br>
 <p>
  🔧 Habilidades Técnicas:<br>
