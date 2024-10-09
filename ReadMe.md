@@ -7,7 +7,7 @@
 </p><br><br>
 <p>
 🎓 Atualmente, estou aprendendo sobre:<br>
-- Testes Automatizados com Cypress<br>
+- Testes Automatizados com Cypress e Robot<br>
 - Metodologias Ágeis (Scrum, Kanban)<br>
 - Testes de Integração Contínua (CI/CD)<br>
   - Fundamentos de testes e boas práticas
