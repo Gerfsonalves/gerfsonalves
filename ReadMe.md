@@ -14,8 +14,8 @@
 </p><br>
 <p>
  🔧 Habilidades Técnicas:<br>
-- Linguagens: JavaScript<br>
-- Ferramentas: Cypress, Postman, Git
+- Linguagens: JavaScript, Python<br>
+- Ferramentas: Cypress, Robot Framework, Postman, Git
 </p>
 <br>
 
