@@ -23,9 +23,34 @@
 📫 Como me encontrar:<br>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerfson-alves-bab324144) 
 
-# 📊 GitHub Status:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gerfsonalves&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerfsonalves&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gerfson-alves-bab324144/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5511987215186" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="80" height="30" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gerfsonalves&icon=0&color=3)](https://visitcount.itsvg.in)
