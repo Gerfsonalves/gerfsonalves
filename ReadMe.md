@@ -17,11 +17,8 @@
 - Linguagens: JavaScript<br>
 - Ferramentas: Cypress, Postman, Git
 </p>
+<br>
 
-
-
-📫 Como me encontrar:<br>
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerfson-alves-bab324144) 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
