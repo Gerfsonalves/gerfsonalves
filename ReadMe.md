@@ -45,11 +45,12 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gerfson-alves-bab324144/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/gerfson-alves-bab324144/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
   </a>
   <a href="https://wa.me/5511987215186" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="80" height="30" alt="whatsapp logo"  />
+    <a href="https://wa.me/5511987215186">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" style="vertical-align: middle;" />
   </a>
 </div>
 
