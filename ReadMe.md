@@ -17,13 +17,14 @@
 </ul></p><br>
 <p>
  🔧 Habilidades Técnicas:<br>
-- Linguagens: <img src="https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="vertical-align: middle;" />
+ <ul>
+<li>Linguagens: <img src="https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="vertical-align: middle;" />
   <img src="https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB" alt="Python" style="vertical-align: middle;" /><br>
-- Ferramentas:   <img src="https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D" alt="Cypress" style="vertical-align: middle;" />
+<li>Ferramentas:   <img src="https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D" alt="Cypress" style="vertical-align: middle;" />
   <img src="https://img.shields.io/badge/Robot_Framework-333333?logo=robotframework&logoColor=FF0000" alt="Robot Framework" style="vertical-align: middle;" />
   <img src="https://img.shields.io/badge/Postman-333333?logo=postman&logoColor=FF6C37" alt="Postman" style="vertical-align: middle;" />
   <img src="https://img.shields.io/badge/Git-333333?logo=git&logoColor=F05032" alt="Git" style="vertical-align: middle;" />
-</p>
+</ul></p>
 <br>
 
 
