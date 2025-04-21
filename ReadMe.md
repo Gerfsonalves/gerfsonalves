@@ -4,7 +4,7 @@
   Sou um entusiasta da área de Qualidade de Software (QA), acredito que a qualidade não é apenas sobre encontrar defeitos,<br>
  mas sim sobre prevenir problemas, entender a experiência do usuário e agregar valor ao produto final.<br>
  Tenho me dedicado a aprender sobre diferentes tipos de testes, como testes manuais e automatizados, e a explorar ferramentas.
-</p><br><br>
+</p></strong><br><br>
 <p>
 🎓 Atualmente, estou aprendendo sobre:<br>
 <ul>
