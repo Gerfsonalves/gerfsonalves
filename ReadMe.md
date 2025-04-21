@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 <p>
   Sou um entusiasta da área de Qualidade de Software (QA), acredito que a qualidade não é apenas sobre encontrar defeitos,<br>
@@ -9,14 +9,19 @@
 🎓 Atualmente, estou aprendendo sobre:<br>
 - Testes Automatizados com: <img src="https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D" alt="Cypress" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Robot_Framework-333333?logo=robotframework&logoColor=FF0000" alt="Robot Framework" style="vertical-align: middle;" /><br>
-- Metodologias Ágeis (Scrum, Kanban)<br>
-- Testes de Integração Contínua (CI/CD)<br>
+- Metodologias Ágeis: <img src="https://img.shields.io/badge/Scrum-333333?logo=scrumalliance&logoColor=009FDA" alt="Scrum" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Kanban-333333?logo=kanban&logoColor=FFFFFF" alt="Kanban" style="vertical-align: middle;" /><br>
+- Testes de Integração: <img src="https://img.shields.io/badge/CI/CD-333333?logo=githubactions&logoColor=2088FF" alt="CI/CD" style="vertical-align: middle;" /><br>
   - Fundamentos de testes e boas práticas
 </p><br>
 <p>
  🔧 Habilidades Técnicas:<br>
-- Linguagens: JavaScript, Python<br>
-- Ferramentas: Cypress, Robot Framework, Postman, Git
+- Linguagens: <img src="https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB" alt="Python" style="vertical-align: middle;" /><br>
+- Ferramentas:   <img src="https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D" alt="Cypress" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Robot_Framework-333333?logo=robotframework&logoColor=FF0000" alt="Robot Framework" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Postman-333333?logo=postman&logoColor=FF6C37" alt="Postman" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Git-333333?logo=git&logoColor=F05032" alt="Git" style="vertical-align: middle;" />
 </p>
 <br>
 
