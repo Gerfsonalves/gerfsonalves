@@ -7,13 +7,14 @@
 </p><br><br>
 <p>
 🎓 Atualmente, estou aprendendo sobre:<br>
-- Testes Automatizados com: <img src="https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D" alt="Cypress" style="vertical-align: middle;" />
+<ul>
+<li>- Testes Automatizados com: <img src="https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D" alt="Cypress" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Robot_Framework-333333?logo=robotframework&logoColor=FF0000" alt="Robot Framework" style="vertical-align: middle;" /><br>
-- Metodologias Ágeis: <img src="https://img.shields.io/badge/Scrum-333333?logo=scrumalliance&logoColor=009FDA" alt="Scrum" style="vertical-align: middle;" />
+<li>- Metodologias Ágeis: <img src="https://img.shields.io/badge/Scrum-333333?logo=scrumalliance&logoColor=009FDA" alt="Scrum" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Kanban-333333?logo=kanban&logoColor=FFFFFF" alt="Kanban" style="vertical-align: middle;" /><br>
-- Testes de Integração: <img src="https://img.shields.io/badge/CI/CD-333333?logo=githubactions&logoColor=2088FF" alt="CI/CD" style="vertical-align: middle;" /><br>
-  - Fundamentos de testes e boas práticas
-</p><br>
+<li>- Testes de Integração: <img src="https://img.shields.io/badge/CI/CD-333333?logo=githubactions&logoColor=2088FF" alt="CI/CD" style="vertical-align: middle;" /><br>
+ <li> - Fundamentos de testes e boas práticas
+</ul></p><br>
 <p>
  🔧 Habilidades Técnicas:<br>
 - Linguagens: <img src="https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="vertical-align: middle;" />
