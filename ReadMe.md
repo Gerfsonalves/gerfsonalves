@@ -7,7 +7,8 @@
 </p><br><br>
 <p>
 🎓 Atualmente, estou aprendendo sobre:<br>
-- Testes Automatizados com: ![Cypress](https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D)  ![Robot Framework](https://img.shields.io/badge/Robot_Framework-333333?logo=robotframework&logoColor=FF0000)<br>
+- Testes Automatizados com: <img src="https://img.shields.io/badge/Cypress-333333?logo=cypress&logoColor=4FC08D" alt="Cypress" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Robot_Framework-333333?logo=robotframework&logoColor=FF0000" alt="Robot Framework" style="vertical-align: middle;" /><br>
 - Metodologias Ágeis (Scrum, Kanban)<br>
 - Testes de Integração Contínua (CI/CD)<br>
   - Fundamentos de testes e boas práticas
