@@ -33,8 +33,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gerfsonalves&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=noctis_minimus&hide_border=true&order=2" height="150" alt="languages graph"  />
+<!-- Alternativa ao Top-Langs (mirror mais estável em muitos casos) -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=gerfsonalves&layout=compact&langs_count=8&theme=tokyonight" height="150" alt="Top languages mirror" />
+
 </div>
+
 
 ###
 
